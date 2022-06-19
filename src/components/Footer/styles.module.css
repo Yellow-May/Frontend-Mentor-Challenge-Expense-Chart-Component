@@ -1,0 +1,14 @@
+footer.attribution {
+	position: fixed;
+	bottom: 24px;
+	left: 0;
+	width: 100%;
+	font-weight: 400;
+	font-size: 11px;
+	text-align: center;
+	color: var(--Soft-red);
+}
+
+footer.attribution a {
+	color: hsl(228, 45%, 44%);
+}

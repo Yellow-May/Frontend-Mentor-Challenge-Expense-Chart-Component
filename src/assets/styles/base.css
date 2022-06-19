@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+@import './variables.css';
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	position: relative;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	transition: color 0.5s, background-color 0.5s;
+	font-family: 'DM Sans', sans-serif;
+	font-size: 18px;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+	min-height: 100%;
+	background-color: var(--Cream);
+}
