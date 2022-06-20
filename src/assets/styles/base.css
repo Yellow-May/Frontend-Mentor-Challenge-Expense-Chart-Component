@@ -26,4 +26,19 @@ body {
 #root {
 	min-height: 100%;
 	background-color: var(--Cream);
+	display: grid;
+	place-items: center;
+}
+
+.chart-app {
+	width: 380px;
+	max-width: 92.5%;
+	display: grid;
+	gap: 24px;
+}
+
+@media (min-width: 480px) {
+	.chart-app {
+		width: 400px;
+	}
 }
