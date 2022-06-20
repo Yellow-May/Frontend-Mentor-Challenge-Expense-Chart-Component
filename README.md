@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.jpeg)
 
 ### Links
 
@@ -53,6 +53,7 @@ Automated Testing
 ### Useful resources
 
 - [freecodecamp.org testing tutorial](https://www.youtube.com/watch?v=8vfQ6SWBZ-U&t=1208s)
+- [React Testing Crash Course](https://www.youtube.com/watch?v=OVNjsIto9xM&t=2103s)
 
 ## Author
 

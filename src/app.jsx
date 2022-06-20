@@ -1,10 +1,13 @@
 import { Fragment } from 'react';
-import { Footer } from 'components';
+import { ChartHeader, Footer, MainChart } from 'components';
 
 const MyApp = () => {
 	return (
 		<Fragment>
-			<main className='chart-app'></main>
+			<div className='chart-app'>
+				<ChartHeader />
+				<MainChart />
+			</div>
 
 			<Footer />
 		</Fragment>
