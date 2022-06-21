@@ -34,13 +34,13 @@ const MainChart = () => {
 
 			<section className={Styles.footer}>
 				<div className={Styles.total}>
-					<h4>Total this month</h4>
+					<h3>Total this month</h3>
 					<span>${(478.33).toLocaleString()}</span>
 				</div>
 
 				<div className={Styles.margins}>
 					<span>{'+2.4%'}</span>
-					<h5>from last month</h5>
+					<h4>from last month</h4>
 				</div>
 			</section>
 		</main>
