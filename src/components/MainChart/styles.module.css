@@ -77,7 +77,7 @@ section.footer {
 	justify-content: space-between;
 }
 
-section.footer div.total h4 {
+section.footer div.total h3 {
 	font-size: 0.65em;
 	font-weight: 400;
 	color: var(--Medium-brown);
@@ -98,7 +98,7 @@ section.footer div.margins span {
 	font-weight: 700;
 }
 
-section.footer div.margins h5 {
+section.footer div.margins h4 {
 	font-size: 0.675em;
 	font-weight: 400;
 	letter-spacing: 0.025rem;
